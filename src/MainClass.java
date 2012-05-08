@@ -8,7 +8,7 @@ public class MainClass {
 		System.out.println("halloServerClients666");
 		System.out.println("test234555555");
 
-		System.out.println("rrrrr22222222222222rrrraaaa");
+		System.out.println("rrrrr");
 
 
 	}
