@@ -8,9 +8,6 @@ public class MainClass {
 		System.out.println("abchalloServerClients666");
 		System.out.println("test234555555");
 
-		System.out.println("rrrrr");
-
-
 	}
 
 }
