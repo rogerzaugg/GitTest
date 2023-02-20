@@ -7,7 +7,7 @@ public class MainClass {
 		// TODO Auto-generated method stub
 		System.out.println("abchalloServerClients666");
 		System.out.println("abc");
-		System.out.println("Test Taiga");
+		System.out.println("Test Taiga2");
 
 	}
 
